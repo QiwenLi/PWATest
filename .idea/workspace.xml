@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb495694-73e6-43f2-b2ce-873c21339941" name="Default" comment="" />
+    <list default="true" id="bb495694-73e6-43f2-b2ce-873c21339941" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PWApp/images/clear.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PWApp/images/cloudy-scattered-showers.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PWApp/images/cloudy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PWApp/images/cloudy_s_sunny.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PWApp/images/fog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PWApp/images/icons/icon-128x128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PWApp/images/icons/icon-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PWApp/images/icons/icon-152x152.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PWApp/images/icons/icon-192x192.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PWApp/images/icons/icon-256x256.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PWApp/images/icons/icon-32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PWApp/images/partly-cloudy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PWApp/images/rain.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PWApp/images/scattered-showers.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PWApp/images/sleet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PWApp/images/snow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PWApp/images/thunderstorm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PWApp/images/wind.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PWApp/images/ic_add_white_24px.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PWApp/images/ic_refresh_white_24px.svg" />
+    </list>
     <ignored path="qiwen.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,18 +41,7 @@
     <favorites_list name="qiwen" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,7 +64,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -88,6 +98,56 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qiwen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qiwen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PWApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qiwen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qiwen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PWApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="styles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qiwen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qiwen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PWApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -100,6 +160,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="true" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PWApp" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -147,7 +213,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
