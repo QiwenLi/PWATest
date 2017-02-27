@@ -1,5 +1,5 @@
-var dataCacheName = 'weatherData-v3.5';
-var cacheName = 'weatherPWA-v2.5';
+var dataCacheName = 'weatherData-v3.6';
+var cacheName = 'weatherPWA-v2.6';
 var filesToCache = [
     '/',
     '/index.html',
@@ -25,9 +25,6 @@ self.addEventListener('install', function (e) {
     e.waitUntil(
         caches.open(cacheName).then(function (cache) {
             console.log('[ServiceWorker] Caching app shell');
-            if (typeof self.skipWaiting === 'function'){
-                self.skipWaiting();
-            }
             return cache.addAll(filesToCache);
         })
     );
@@ -36,9 +33,6 @@ self.addEventListener('activate', function (e) {
     //console.log('[ServiceWorker] Activate');
     e.waitUntil(
         caches.keys().then(function (keyList) {
-            if (self.clients && (typeof self.clients.claim === 'function')){
-                self.clients.claim();
-            }
             return Promise.all(keyList.map(function (key) {
                 console.log('[ServiceWorker] Removing old cache', key);
                 if (key !== cacheName && key != dataCacheName) {
